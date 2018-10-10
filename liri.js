@@ -56,7 +56,7 @@ function concert() {
           let venueCity = resultsArr[i].venue.city;
           let venueCountry = resultsArr[i].venue.country;
           let venueDate = resultsArr[i].datetime;
-          
+
           // as the date is in 2019-02-16T19:00:51 format; slice till index 10, convert to string, and then use moment to convert to required format of MM/DD/YYYY
           var newDate = venueDate.slice(0, 10);
           var date = newDate.toString();
@@ -65,12 +65,12 @@ function concert() {
           // console.log(venueName);
           // console.log(venueCity + ", " + venueCountry);
           // console.log(convertedDate);
-          var concertInfo = 
-          "-----------------------------------------------------------------" + "\r\n" + "Concert Venue: " + venueName + "\r\n" + "Venue address: " + venueCity + ", " + venueCountry + "\r\n" + "Date of the Event: " + convertedDate + "\r\n" + "-----------------------------------------------------------------"
+          var concertInfo =
+            "-----------------------------------------------------------------" + "\r\n" + "Concert Venue: " + venueName + "\r\n" + "Venue address: " + venueCity + ", " + venueCountry + "\r\n" + "Date of the Event: " + convertedDate + "\r\n" + "-----------------------------------------------------------------"
 
           console.log(concertInfo);
           writeTofile(concertInfo);
-          
+
         }
       }
     });
@@ -78,13 +78,13 @@ function concert() {
 
 
 function spotifyThis(songChoice) {
-// save the song entered in a variable
- 
-if (!songChoice){
-  songChoice = "The Sign by Ace of Base"
-} 
+  // save the song entered in a variable
 
-// search for the song in spotify
+  if (!songChoice) {
+    songChoice = "The Sign by Ace of Base"
+  }
+
+  // search for the song in spotify
   spotify.search({
     type: 'track',
     query: songChoice
@@ -103,9 +103,9 @@ if (!songChoice){
     // loop over the number of songs returned to print required info.
     for (var i = 0; i < songVar.length; i++) {
 
-      let songInfo = 
-      "-----------------------------------------------------------------" + "\r\n" + 'Song: ' + songVar[i].name +  "\r\n" + 'Artist: ' + songVar[i].artists[0].name + "\r\n" + 'Album: ' + songVar[i].album.name + "\r\n" + 'Url: ' + songVar[i].external_urls.spotify + 
-      "-----------------------------------------------------------------"
+      let songInfo =
+        "-----------------------------------------------------------------" + "\r\n" + 'Song: ' + songVar[i].name + "\r\n" + 'Artist: ' + songVar[i].artists[0].name + "\r\n" + 'Album: ' + songVar[i].album.name + "\r\n" + 'Url: ' + songVar[i].external_urls.spotify +
+        "-----------------------------------------------------------------"
 
       console.log(songInfo);
       writeTofile(songInfo);
@@ -132,18 +132,18 @@ function movie() {
     // If the request is successful (i.e. if the response status code is 200) Code 200 is a successful request.
     if (!error && response.statusCode === 200) {
       let info = JSON.parse(body);
-        var movieInfo = 
+      var movieInfo =
         "-----------------------------------------------------------------" + "\r\n" +
-				"Title: " + info.Title+"\r\n"+
-				"Year: " + info.Year+"\r\n"+
-				"Imdb Rating: " + info.imdbRating+"\r\n"+
-				"Country: " + info.Country+"\r\n"+
-				"Language: " + info.Language+"\r\n"+
-				"Plot: " + info.Plot+"\r\n"+
-				"Actors: " + info.Actors+"\r\n"+
-				"Rotten Tomatoes Rating: " + info.tomatoRating+"\r\n"+
-				"Rotten Tomatoes URL: " + info.tomatoURL + "\r\n" + 
-				"------------------------------------------------------------------" + "\r\n";
+        "Title: " + info.Title + "\r\n" +
+        "Year: " + info.Year + "\r\n" +
+        "Imdb Rating: " + info.imdbRating + "\r\n" +
+        "Country: " + info.Country + "\r\n" +
+        "Language: " + info.Language + "\r\n" +
+        "Plot: " + info.Plot + "\r\n" +
+        "Actors: " + info.Actors + "\r\n" +
+        "Rotten Tomatoes Rating: " + info.tomatoRating + "\r\n" +
+        "Rotten Tomatoes URL: " + info.tomatoURL + "\r\n" +
+        "------------------------------------------------------------------" + "\r\n";
       console.log(movieInfo)
       writeTofile(movieInfo);
 
@@ -174,26 +174,26 @@ function doWhatItSays() {
       song = dataArr[1];
       spotifyThis(song);
       // console.log(song);
-  // We will then re-display the content as an array for later use.
-  // console.log(dataArr);
+      // We will then re-display the content as an array for later use.
+      // console.log(dataArr);
 
     }
   });
 };
 
 // Write all info to log.txt
-function writeTofile (data) {
-  fs.appendFile("log.txt", data, function(err) {
+function writeTofile(data) {
+  fs.appendFile("log.txt", data, function (err) {
 
     // If an error was experienced we will log it.
     if (err) {
       console.log(err);
     }
-  
+
     // If no error is experienced, we'll log the phrase "Content Added" to our node console.
     else {
       console.log("Content Added!");
     }
-  
+
   });
 }
