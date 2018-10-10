@@ -4,7 +4,7 @@ Language Interpretation &amp; Recognition Interface
 
 ### Overview
 
-In this assignment, I creater LIRI: _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives  back data.
+In this assignment, I created LIRI: _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives  back data.
 
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
@@ -35,13 +35,13 @@ liri can take in one of the following commands:
 
 1. `node liri.js concert-this <artist/band name here>`
 
-   * This searches the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
+   * This searches the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and renders the following information about each event to the terminal:
 
      * Name of the venue
 
      * Venue location
 
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     * Date of the Event (I used moment to format this as "MM/DD/YYYY")
 
      * It also writes to the log.txt file
 
@@ -67,7 +67,7 @@ liri can take in one of the following commands:
  ![alt text](images/spotify-this-song-MaterialGirl.jpg "Material Girl")  
 
 
-   * If no song is provided then your program defaults to "The Sign" by Ace of Base.
+   * If no song is provided then the program defaults to "The Sign" by Ace of Base.
 
    * It utilizes the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
 
@@ -96,7 +96,7 @@ Here is an Example:
        * Actors in the movie.
      ```
 
-   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+   * If the user doesn't type in a movie, the program will output data for the movie 'Mr. Nobody.'
 
 Here are Examples:
 
@@ -105,7 +105,7 @@ Here are Examples:
 
 4. `node liri.js do-what-it-says`
 
-   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+   * Using the `fs` Node package, LIRI takes the text inside of random.txt and then uses it to call one of LIRI's commands.
 
      * It runs `spotify-this-song` for "I Want it That Way," 
 
