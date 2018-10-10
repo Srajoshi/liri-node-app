@@ -47,7 +47,7 @@ liri can take in one of the following commands:
 
  Here is an Example:   
 
- ![alt text](/Users/seema/Desktop/liri-node-app/concert-this.jpgconcert-this.png "Marron 5 Concert")  
+ ![alt text](images/concert-this.jpg "Marron 5 Concert")  
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
@@ -64,6 +64,8 @@ liri can take in one of the following commands:
 
  Here is an Example:
 
+ ![alt text](images/spotify-this-song-MaterialGirl.jpg "Material Girl")  
+
 
    * If no song is provided then your program defaults to "The Sign" by Ace of Base.
 
@@ -74,6 +76,8 @@ liri can take in one of the following commands:
 * In both cases the output is also writtten to the log.txt file.
 
 Here is an Example: 
+
+![alt text](images/spotify-this-song-Signs.jpg "The Signs") 
 
   
 
@@ -96,6 +100,9 @@ Here is an Example:
 
 Here are Examples:
 
+![alt text](images/movie-this.jpg "Gone with the wind") 
+
+
 4. `node liri.js do-what-it-says`
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
@@ -103,6 +110,8 @@ Here are Examples:
      * It runs `spotify-this-song` for "I Want it That Way," 
 
 Here is an Example:
+
+![alt text](images/do-what-it-says.jpg "I Want It That WEay") 
 
 * In addition to logging the data to the terminal/bash window, it also adds it to `log.txt`.
 
