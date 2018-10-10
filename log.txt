@@ -1,0 +1,351 @@
+-----------------------------------------------------------------
+Concert Venue: XL Center
+Venue address: Hartford, United States
+Date of the Event: 10/10/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Wells Fargo Center
+Venue address: Philadelphia, United States
+Date of the Event: 10/12/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Madison Square Garden
+Venue address: New York, United States
+Date of the Event: 10/14/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Madison Square Garden
+Venue address: New York, United States
+Date of the Event: 10/15/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Mandalay Bay Events Center
+Venue address: Las Vegas, United States
+Date of the Event: 12/30/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Mandalay Bay Events Center
+Venue address: Las Vegas, United States
+Date of the Event: 12/31/2018
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Brisbane Entertainment Centre
+Venue address: Brisbane, Australia
+Date of the Event: 02/19/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Qudos Bank Arena
+Venue address: Sydney, Australia
+Date of the Event: 02/21/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Rod Laver Arena
+Venue address: Melbourne, Australia
+Date of the Event: 02/22/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: TOKYO DOME
+Venue address: Tokyo, -
+Date of the Event: 02/25/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Gocheok Sky Dome
+Venue address: Seoul, -
+Date of the Event: 02/27/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: TBA
+Venue address: Kaohsiung City, -
+Date of the Event: 03/01/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: TBA
+Venue address: Macau, -
+Date of the Event: 03/03/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: MALL OF ASIA ARENA
+Venue address: Manila, -
+Date of the Event: 03/05/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: NATIONAL STADIUM
+Venue address: Singapore, -
+Date of the Event: 03/07/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: CHALLENGER HALL
+Venue address: Bangkok, -
+Date of the Event: 03/09/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Mollenpark
+Venue address: Aalborg, Denmark
+Date of the Event: 06/01/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Lanxess Arena
+Venue address: Cologne, Germany
+Date of the Event: 06/03/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: O2 ARENA
+Venue address: Prague, Czech Republic
+Date of the Event: 06/05/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Tauron Arena
+Venue address: Kraków, Poland
+Date of the Event: 06/06/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: Ziggo Dome
+Venue address: Amsterdam, Netherlands
+Date of the Event: 06/10/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Concert Venue: AccorHotels Arena
+Venue address: Paris, France
+Date of the Event: 06/11/2019
+----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Madonna
+Album: Celebration (double disc version)
+Url: https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Madonna
+Album: Like A Virgin (Reissue)
+Url: https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Madonna
+Album: The Immaculate Collection
+Url: https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Walk Off the Earth
+Album: Under the Covers
+Url: https://open.spotify.com/track/1crBMdfJtjvEkf1pslu5PE----------------------------------------------------------------------------------------------------------------------------------
+Song: Diamonds Are A Girl's Best Friend / Material Girl (Glee Cast Version)
+Artist: Glee Cast
+Album: Diamonds Are A Girl's Best Friend / Material Girl (Glee Cast Version)
+Url: https://open.spotify.com/track/1Od2sr5VM5PvunpS0WfUQz----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Rockabye Baby!
+Album: Lullaby Renditions of Madonna
+Url: https://open.spotify.com/track/3Tu6LBgmBmbYdZEhcQdBoI----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl - Extended Dance Remix
+Artist: Madonna
+Album: Like A Virgin (Reissue)
+Url: https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl - Live
+Artist: Madonna
+Album: Rebel Heart Tour (Live)
+Url: https://open.spotify.com/track/6RpSsP7B8y73bSDtkHxXsw----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Madonna
+Album: Celebration
+Url: https://open.spotify.com/track/2LmAfyLiiSxMsPlnWSNGmG----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Richard Cheese
+Album: I'd Like A Virgin
+Url: https://open.spotify.com/track/1NpFS2fVhu9OcaiLId1TeE----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Garrett Douglas
+Album: Material Girl
+Url: https://open.spotify.com/track/2KAQH2TME7d4kbRzQjDkum----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl - Bossa Version
+Artist: Marcela Mangabeira
+Album: Relaxing Bossa Lounge 13
+Url: https://open.spotify.com/track/4AyjzLVDgUAIv6T4FViHd9----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Nick Adams & Company
+Album: Priscilla: Queen Of The Desert (Original Broadway Cast Recording)
+Url: https://open.spotify.com/track/6rxJ75z8joflQ9pC7Vx4xi----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Cassandra Beck
+Album: Jazz and 80s - Part Two
+Url: https://open.spotify.com/track/1ZJiG47xYkB052fVu9k6t3----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: United Rhythms Of Brazil
+Album: Bossa N' Madonna
+Url: https://open.spotify.com/track/2shPUDtR3ig7fHVuBvM4ih----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Cassandra Beck
+Album: The Sexy EP
+Url: https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Walk Off the Earth
+Album: Material Girl
+Url: https://open.spotify.com/track/7DlP5gQ6YVziafMwrt8rQW----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Sounds of Shapiro's Squeezebox
+Album: Just Dance
+Url: https://open.spotify.com/track/6PWSnpZIqbuYP7wbMswqX6----------------------------------------------------------------------------------------------------------------------------------
+Song: Girl Called Me by the Wrong Name
+Artist: Felipe Esparza
+Album: Rebound Material
+Url: https://open.spotify.com/track/7K7rUfuTDBR9Wl28fGchOI----------------------------------------------------------------------------------------------------------------------------------
+Song: Material Girl
+Artist: Scott Bradlee's Postmodern Jukebox
+Album: Material Girl
+Url: https://open.spotify.com/track/4RFH2oh9BdM90Q8nwbeEAu----------------------------------------------------------------------------------------------------------------------------------
+Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Artist: Karaoke Box
+Album: Karaoke Box: Reggae Greatest Hits
+Url: https://open.spotify.com/track/0jQYAjEb8atbTeLcnuGJTR----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Artist: The Karaoke Channel
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+Url: https://open.spotify.com/track/1XahejvCmeUcdmQkbp5ZHG----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Artist: Clara Oaks
+Album: The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+Url: https://open.spotify.com/track/1ZnVwAN0i2xrpO6HCeaNIz----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (As Made Famous By Ace of Base)
+Artist: The Karaoke Crew
+Album: Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+Url: https://open.spotify.com/track/43iNM4P9RH071kHJXwcU7M----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) [Originally Performed By Ace Of Base]
+Artist: Anna Gramm
+Album: The Best Of Ace Of Base (Karaoke Version)
+Url: https://open.spotify.com/track/618PeDI5lUrNqn0XIsL6Io----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Made Popular By Ace of Base) [Karaoke Version]
+Artist: Billboard Karaoke
+Album: Billboard Karaoke - Top 10 Box Set (Vol. 3)
+Url: https://open.spotify.com/track/0mgJk0QmZnkTo5Zda5N6JZ----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Originally Performed by Ace Of Base) - Karaoke Version
+Artist: Roq Star Karaoke
+Album: Karaoke - Ace of Base
+Url: https://open.spotify.com/track/7o7UV9ex4ejjgmIOuIC4Fx----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Artist: Drunken Singers
+Album: Top Karaoke Hits of All Time, Vol. 3
+Url: https://open.spotify.com/track/6wneMQTuqFyIoT42bzhWaV----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Artist: Albert 2 Stone
+Album: Greatest Karaoke Hits, Vol. 121 (Karaoke Version)
+Url: https://open.spotify.com/track/7rv0j6lz46ShwlJJlh56zC----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (As Made Famous by Ace of Base)
+Artist: The Karaoke Crew
+Album: Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+Url: https://open.spotify.com/track/080RR9Cz0qwvOBYE1RuQdw----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Artist: Mega Tracks Karaoke Band
+Album: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Url: https://open.spotify.com/track/11nTgDUFryfpdaENWyRY6j----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Artist: Sing Strike Karaoke
+Album: The Sign (Karaoke Version) (Originally Performed By Ace Of Base)
+Url: https://open.spotify.com/track/2O9XORa0d7IlpYzyR3El7E----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Artist: BFM Hits
+Album: Karaoke: Pop Hits 1994, Vol. 2
+Url: https://open.spotify.com/track/2YhWwu7Y4lwxHq6qUFWMQD----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) [Originally Performed By Ace of Base]
+Artist: Ameritz Club
+Album: Karaoke (In the Style of Ace of Base)
+Url: https://open.spotify.com/track/4UVTCV5w9Ix03lB644Hr8G----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Artist: Sing Fire Karaoke
+Album: The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+Url: https://open.spotify.com/track/3husza8q4f9CMcUZzwJpWh----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Artist: Sing Strike Karaoke
+Album: Karaoke In Style Of Ace Of Base
+Url: https://open.spotify.com/track/4O29ERHVt5sbn9xJbI1ncI----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) [Originally Performed By Ace of Base]
+Artist: Zoom Karaoke
+Album: Zoom Karaoke Party, Vol. 334
+Url: https://open.spotify.com/track/53BrElLjg6LOp8AeVbi2IL----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Artist: Cooltone Karaoke
+Album: Greatest Hits Karaoke: Ace of Base
+Url: https://open.spotify.com/track/0U2lhdiYwe3docATm1Y5Xz----------------------------------------------------------------------------------------------------------------------------------
+Song: Sign, The (As Made Famous By Ace of Base)
+Artist: The Karaoke Crew
+Album: Drew's Famous # 1 Karaoke Hits: Sing like Ace of Base
+Url: https://open.spotify.com/track/0ysCIWFvLM5k1ONzQKa8vG----------------------------------------------------------------------------------------------------------------------------------
+Song: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Artist: Albert 2 Stone
+Album: Greatest Karaoke Hits, Vol. 468 (Karaoke Version)
+Url: https://open.spotify.com/track/2RWCuFRbQ3nzfTfCfdnN6W----------------------------------------------------------------------------------------------------------------------------------
+Title: Gone with the Wind
+Year: 1939
+Imdb Rating: 8.2
+Country: USA
+Language: English
+Plot: A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Actors: Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+------------------------------------------------------------------
+-----------------------------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+------------------------------------------------------------------
+-----------------------------------------------------------------
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Url: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: Millennium
+Url: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Anthem Lights
+Album: Covers Part IV
+Url: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Manuel Costa
+Album: I Want It That Way
+Url: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Dynamite Boy
+Album: Punk Goes Pop
+Url: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN----------------------------------------------------------------------------------------------------------------------------------
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album: Poodle Hat
+Url: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: 90 Sweet 90s Hits!
+Url: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: NKOTBSB
+Url: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Tyler and Mark
+Album: Beautiful Dreams
+Url: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy----------------------------------------------------------------------------------------------------------------------------------
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist: Glee Cast
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Url: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Boyce Avenue
+Album: Cover Sessions, Vol. 2
+Url: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Steel Panther
+Album: I Want It That Way
+Url: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Backstreet Boys
+Album: NOW That's What I Call 90s Pop
+Url: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Scary Pockets
+Album: Nu Funk
+Url: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr----------------------------------------------------------------------------------------------------------------------------------
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist: "Weird Al" Yankovic
+Album: The Essential "Weird Al" Yankovic
+Url: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Scott Bradlee's Postmodern Jukebox
+Album: Selfies on Kodachrome
+Url: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: #90s Update
+Album: #90s Update
+Url: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Landon Austin & Julia Sheer
+Album: I Want It That Way
+Url: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Scott Bradlee's Postmodern Jukebox
+Album: PMJ Is For Lovers: The Love Song Collection
+Url: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY----------------------------------------------------------------------------------------------------------------------------------
+Song: I Want It That Way
+Artist: Jay Smith
+Album: Jay Smith
+Url: https://open.spotify.com/track/0ftdMGkxPD2PRTaQvGmyQO-----------------------------------------------------------------
